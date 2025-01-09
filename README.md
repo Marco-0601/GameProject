@@ -1,1 +1,2 @@
 # GameProject
+Game designed by me as the final project for my computer science class at Berkeley, CS61B. Game includes a menu for options and theme for the game. The main avatar is represented by # and can move in the game using WASD. There is also a light switch feature that turns off the lights and only light up the places around you usind the key E. Quit by pressing :+Q in game and the game with automatically save your progress and you can load it back up using L next time you play. 
